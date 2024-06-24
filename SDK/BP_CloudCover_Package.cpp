@@ -1,0 +1,29 @@
+﻿/**
+ * Name: GTA-SA-DEF
+ * Version: 0.0.1
+ */
+
+#include "pch.h"
+
+namespace CG
+{
+	// --------------------------------------------------
+	// # Structs Functions
+	// --------------------------------------------------
+	/**
+	 * Function:
+	 * 		RVA    -> 0x00000000
+	 * 		Name   -> PredefinedFunction ABP_CloudCover_C.StaticClass
+	 * 		Flags  -> (Predefined, Static)
+	 */
+	UClass* ABP_CloudCover_C::StaticClass()
+	{
+		static UClass* ptr = nullptr;
+		if (!ptr)
+			ptr = UObject::FindClass("BlueprintGeneratedClass BP_CloudCover.BP_CloudCover_C");
+		return ptr;
+	}
+
+}
+
+

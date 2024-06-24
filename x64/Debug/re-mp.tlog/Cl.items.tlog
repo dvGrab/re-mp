@@ -1,0 +1,15 @@
+G:\DefMP\re-mp\re-mp\DirectX.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\DirectX.obj
+G:\DefMP\re-mp\re-mp\Engine.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\Engine.obj
+G:\DefMP\re-mp\re-mp\Game.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\Game.obj
+G:\DefMP\re-mp\re-mp\imgui-1.89.5\backends\imgui_impl_dx11.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\imgui_impl_dx11.obj
+G:\DefMP\re-mp\re-mp\imgui-1.89.5\backends\imgui_impl_win32.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\imgui_impl_win32.obj
+G:\DefMP\re-mp\re-mp\imgui-1.89.5\imgui.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\imgui.obj
+G:\DefMP\re-mp\re-mp\imgui-1.89.5\imgui_draw.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\imgui_draw.obj
+G:\DefMP\re-mp\re-mp\imgui-1.89.5\imgui_tables.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\imgui_tables.obj
+G:\DefMP\re-mp\re-mp\imgui-1.89.5\imgui_widgets.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\imgui_widgets.obj
+G:\DefMP\re-mp\re-mp\Main.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\Main.obj
+G:\DefMP\re-mp\re-mp\SDK\BasicTypes_Package.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\BasicTypes_Package.obj
+G:\DefMP\re-mp\re-mp\SDK\CoreUObject_Package.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\CoreUObject_Package.obj
+G:\DefMP\re-mp\re-mp\SDK\Engine_Package.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\Engine_Package.obj
+G:\DefMP\re-mp\re-mp\SDK\GTABase_Package.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\GTABase_Package.obj
+G:\DefMP\re-mp\re-mp\Utilities.cpp;G:\DefMP\re-mp\re-mp\x64\Debug\Utilities.obj
